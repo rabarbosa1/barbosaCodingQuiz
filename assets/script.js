@@ -166,7 +166,7 @@ function addScore(event) {
 
     // sort scores
     scoreList = scoreList.sort((a, b) => {
-        if (a.score < b.score) {
+        if (a.score > b.score) {
           return 1;
         } else {
           return -1;
