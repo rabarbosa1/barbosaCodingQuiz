@@ -20,34 +20,10 @@ body {
     flex-direction: column;
 }
 
-/* Main content */
+
 main {
      
     flex: 1 0 auto;
-}
-
-
-
-#questions,
-#final,
-#highscores,
-#yaynay {
-    display: none;  
-  } 
-
-ul.nobullets {
-list-style-type: none;
-}
-
-/* Answer button styling */
-.ansBtn,
-.ansBtn:hover,
-.ansBtn:active,
-.ansBtn:focus,
-.ansBtn:active:focus {
-    box-shadow: none;
-    outline: none;
-    background-color: #288ea7;
 }
 
 
