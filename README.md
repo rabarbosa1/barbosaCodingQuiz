@@ -12,9 +12,9 @@
 
 
 # Website
-https://rabarbosa1.github.io/barbosaCodingQuiz/
+
 
 # Repository
 https://github.com/rabarbosa1/barbosaCodingQuiz
 
-![image](https://user-images.githubusercontent.com/115849626/205535911-92eb788b-4d11-44ba-b110-8dfa850f5867.png)
+
